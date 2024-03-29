@@ -84,21 +84,73 @@ Duración de la entrevista: [00:00:00 - 00:10:57]
 
 ## 2.3. Needfinding
 
-En este apartado se mostrarán los artefactos resultantes del proceso de recolección que se realizó en los segmentos objetivos y que concluye con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+En este punto se mostrarán los resultados del proceso de recolección que se realizó en los segmentos objetivos y que da con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
 ### 2.3.1. User Persona
+Se presentara el perfil ficticio que personifica a las personas de interes identificados en las entrevistas. Se incluyo en esta representacion la edad,genero, locacion, metas, frustaciones, navegador web, necesidades y herramientas usadas en el trabajo.
 
-
-
-#### User Empathy Mapping
-![User Empathy Mapping]()
-
-
+![User Person](/Assets/Img/Chapter%20II/user%20person_almacenero.jpg)
 
 ### 2.3.2. User Task Matrix
+El User Task Matrix nos ayudara a identificar las actividades que realizan nuestro segmento objetivo y identificamos la importacia de estas.
 
+Indicadores de importancia:
 
+| ALTA | BAJA | MEDIA |
+|------|------|-------|      
 
+Indicadores de frecuencia:
+
+| SIEMPRE | RARA VEZ | NUNCA |
+|------|------|-------|     
+
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Alfredo Benavides Wong</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Revisar la documentacion que contiene la informacion de un producto</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Revisar la fecha de vencimiento de cada producto</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>   
+        <tr>
+            <td>Revisar la cantidad de cada producto</td>
+            <td>Siempre</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Realizar un conteo para solicitar productos faltantes</td>
+            <td>Rara vez</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Realizar un informe detallado del almacen</td>
+            <td>Rara vez</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Realiazar actualizacion cada dia del estado de los productos </td>
+            <td>Siemrpe</td>
+            <td>Alta</td>
+        </tr>  
+    </tbody>
+</table>  
+
+Esta tabla nos presenta las cantidad de tareas que realiza el almacenero Alfredo Benavides Wong en cada producto del almacen del restaurante siendo estas muy importantes para controlar la calidad y eficiencia de la atencion del restaurante.
 
 
 

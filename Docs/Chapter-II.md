@@ -86,8 +86,8 @@ Duración de la entrevista: [00:00:00 - 00:10:57]
 
 En este punto se mostrarán los resultados del proceso de recolección que se realizó en los segmentos objetivos y que da con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
-### 2.3.1. User Persona
-Se presentara el perfil ficticio que personifica a las personas de interes identificados en las entrevistas. Se incluyo en esta representacion la edad,genero, locacion, metas, frustaciones, navegador web, necesidades y herramientas usadas en el trabajo.
+### 2.3.1. User Person
+El user Person es un perfil ficticio que personifica a las personas de interes, identificados en las entrevistas. Se incluyo en esta representacion la edad, genero, locacion, metas, frustaciones, navegador web, necesidades y herramientas usadas en el trabajo.
 
 ![User Person](/Assets/Img/Chapter%20II/user%20person_almacenero.jpg)
 
@@ -156,25 +156,24 @@ Esta tabla nos presenta las cantidad de tareas que realiza el almacenero Alfredo
 
 ### 2.3.3. User Journey Mapping
 
+En este punto se realizo el User Journey Mapping para cada User Persona. El flujo comienza desde que el usuario entra al sitio web para ver el dashboard, realizar busqueda, actualizar, agregar un producto e imprimir un informe diario.Esta secuencia nos muestra la accion del usuario, proceso, problemas que tiene el usuario, experiencia y oportunidades.
 
-
-![User Journey Mapping: Cliente]()
-
+![User Journey Mapping: Cliente](/Assets/Img/Chapter%20II/User%20journey%20map%20FoodOs.png)
 
 
 ### 2.3.4. Empathy Mapping
 
- 
+En esta seccion nos sera util para crear perfiles detallados de los User Persona y desarrollar descripciones más profundas desde su perspectiva. 
 
 #### User Empathy Mapping: Cliente
 
-![User Empathy Mapping: Cliente]()
+![User Empathy Mapping: Cliente](/Assets/Img//Chapter%20II//Emphaty%20map.png)
 
 
 
 ### 2.3.5. As-is Scenario Mapping
 
-
+En el escenario actual (As-Is), el mapeo de la experiencia del usuario comienza desde que el empieza buscando documentos de los productos y comparando estos para preservar la calidad del restaurante. Ademas de documentar los ultimos cargamentos de productos nuevos y la realizacion del informe diario con los documentos fisicos de las operaciones realizadas en el dia
 
 <center>
 

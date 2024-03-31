@@ -173,13 +173,13 @@ En esta seccion nos sera util para crear perfiles detallados de los User Persona
 
 ### 2.3.5. As-is Scenario Mapping
 
-En el escenario actual (As-Is), el mapeo de la experiencia del usuario comienza desde que el empieza buscando documentos de los productos y comparando estos para preservar la calidad del restaurante. Ademas de documentar los ultimos cargamentos de productos nuevos y la realizacion del informe diario con los documentos fisicos de las operaciones realizadas en el dia
+En el escenario actual (As-Is), el mapeo de la experiencia del usuario sin el uso de nuestra herramineta en desarrollo, comienza desde que el usuario empieza buscando documentos de los productos y comparando estos para preservar la calidad del restaurante. Ademas de documentar los ultimos cargamentos de productos nuevos y la realizacion del informe diario con los documentos fisicos de las operaciones realizadas en el dia
 
 <center>
 
 __As-is Scenario Mapping: Usuario__ </center>
 
-![As Is Scenario Mapping Usuario](../assets/img/chapter-II/As-is_1.jpg)
+![As Is Scenario Mapping Usuario](/Assets/Img/Chapter%20II/As%20Is%20Escenario%20mapping.jpg)
 
 <br>
 

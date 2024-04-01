@@ -8,20 +8,20 @@
 
 El objetivo del siguiente análisis competitivo es identificar las fortalezas y debilidades en relación con los competidores para desarrollar diseños y estrategias efectivas para competir en el mercado.
 
-| Competidor|        |TecHelp|AyFix|Timbrit|Helpers|
+| Competidor|        |Poster|Odoo|SolverMedia|FoodOs|
 | ----------|--------|-------|-----|-------|-------|
-| Logo      |        |    ![]()| ![]()| ![]()| ![logo_Helpers](../assets/img/chapter-II/icon4.png) |
-| Perfil    | Overview|  |  |  | |
-|           | Ventaja competitiva ¿Qué valor ofrece a los clientes? |  | | | |
-| Perfil de Marketing | Mercado objetivo|  | | | |
-|                     | Estrategias de marketing| || | |
-| Perfil de Producto  | Productos & Servicios| ||| |
-|                     | Precios & Costos|||||
-|                     | Canales de distribución (Web y/o Móvil)| | || |
-| Análisis SWOT       | Fortalezas| | | | |
-|                     | Debilidades| | | | |
-|                     | Oportunidades | | | | |
-|                     | Amenazas|||||
+| Logo      |        |    ![](/Assets/Img/Chapter%20II/poster.png)| ![](/Assets/Img/Chapter%20II/odoo_logo.png)| ![](/Assets/Img/Chapter%20II/Solvermedia-logo-montserrat_font_black.png)| ![logo_FoodOs]() |
+| Perfil    | Overview| Aplicacion Web |Aplicacion Web  |Ejecutable  |Aplicacion Web |
+|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | La propuesta de valor de Poster es ofrecer la gestion de ventas,inventario,contabilidad y tener la posibilidad de expandir el negocio a dispositivos moviles.  |La propuesta de valor de Odoo es tener un software enfocado a comercios personalizado a pedido de sus clientes  |La propuesta de valor de SolverMedia es ofrecer un software simple que ofrece control de stack, Realizar horarios para el equipo del restaurante, realizar pedidos al provedor.|La propuesta de valor de FoodOs es enfocarse en el control del almacen de un restaurante ofreciendo mejorar el tiempo de las tareas, controlar la frescura de los alimentos, realizacion de informes diarios.   |
+| Perfil de Marketing | Mercado objetivo| Negocios enfocados en el sector de los restaurantes que buscan un software que ayude en sus tareas cotidianas. |Negocios que buscan un software  personalizado para su negocio. | Enfocados en Restaurantes, Cafeterias y Tpv Hosteleria.| Enfocado en restaurantes que quieren tener un mejor control del almacen |
+|                     | Estrategias de marketing|Publicidad y posicionamiento de su Landing Page |Publicidad y posicionamiento de su Landing Page y entrevistas|Publicidad y posicionamiento de su Landing Page | Publicidad y posicionamiento de su Landing Page|
+| Perfil de Producto  | Productos & Servicios|Proporciona un software de gestion de ventas,inventario,contabilidad y tener la posibilidad de expandir el negocio a dispositivos moviles.|Proporciona un software personalizado para el usuario|Ofrece un software simple que ofrece control de stack, Realizar horarios para el equipo del restaurante, realizar pedidos al provedor.|Ofrece control del almacen de un restaurante ofreciendo mejorar el tiempo de las tareas, controlar la frescura de los alimentos y realizacion de informes diarios. |
+|                     | Precios & Costos|__Plan1:__ Prueba Gratuita __Plan2:__ $26 mesuales|Precio dependiendo de la cotizacion del software|__Plan1:__ Prueba Gratuita __Plan2:__ $5 mesuales |__Plan1:__ Prueba Gratuita __Plan2:__ $10 mesuales __Plan3:__ $18 mesuales |
+|                     | Canales de distribución (Web y/o Móvil)| Web y Movil | Web y Movil|Web|Web|
+| Análisis SWOT       | Fortalezas|Cubrir varios dispositivos. |Tener un servicio personalizado |Bajo Cosotorespecto a su competencia |Enfoxarze en un area de un restaurante |
+|                     | Debilidades|Solo tiene cobertura en México. |Cubrir muchos sectores sin especializarce en uno |Tener una interfaz nada agradable al usuario |Tener poca experiencia en el mercado. |
+|                     | Oportunidades |Al tener la posibilidad de usar dos tipos de dispositivo su alcanze aumenta. |Amplia base de usuarios potenciales. | Cubrir una base de usuarios con ingresos bajos.| Tener una especialziacion en un sector del mercado y no abarcar a muchos a la vez.|
+|                     | Amenazas|Competidores con alta experiencia en el mercado.|Cambios en la demanda del mercado.|Competidores con alta experiencia en el mercado.|No cubrir todas las areas de un restaurante|
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -42,17 +42,31 @@ El objetivo del siguiente análisis competitivo es identificar las fortalezas y 
 
 ##### Preguntas demográficas:
 
+¿Cuál es tu nombre?
 
+¿Qué edad tienes?
+
+¿Cual es tu ocupación en el restaurante?
+
+¿De qué distrito resides?
 
 ##### Preguntas principales:
 
+¿Qué herramientas usas para el control del almacén? ¿Usas algún navegador? ¿Cuál es?
 
+¿Cuánto tiempo te demoras en hacer las tareas del almacén del restaurante?¿cuales son las que demoras en terminar?
 
-#### Preguntas sobre el proyecto:
+¿Alguna vez han tenido problemas en el restaurante relacionados con el control del almacén?¿De que trato el problema?
 
+¿Alguna vez has tenido problemas para encontrar los documentos sobre un producto del almacén? ¿Cómo los solucionaste?
 
+##### Preguntas sobre el proyecto:
 
+¿Ha escuchado de una aplicación web que brinde los mismos servicios que ofrece nuestro proyecto?
 
+¿Cree que nuestra aplicación solucionara sus problemas con la administracion del almacen del restaurante?
+
+Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustarían ver en nuestra aplicación?
 
 
 ### 2.2.2. Registro de entrevistas

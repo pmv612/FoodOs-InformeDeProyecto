@@ -18,20 +18,46 @@ El objetivo del siguiente análisis competitivo es identificar las fortalezas y 
 | Perfil de Producto  | Productos & Servicios|Proporciona un software de gestion de ventas,inventario,contabilidad y tener la posibilidad de expandir el negocio a dispositivos moviles.|Proporciona un software personalizado para el usuario|Ofrece un software simple que ofrece control de stack, Realizar horarios para el equipo del restaurante, realizar pedidos al provedor.|Ofrece control del almacen de un restaurante ofreciendo mejorar el tiempo de las tareas, controlar la frescura de los alimentos y realizacion de informes diarios. |
 |                     | Precios & Costos|__Plan1:__ Prueba Gratuita __Plan2:__ $26 mesuales|Precio dependiendo de la cotizacion del software|__Plan1:__ Prueba Gratuita __Plan2:__ $5 mesuales |__Plan1:__ Prueba Gratuita __Plan2:__ $10 mesuales __Plan3:__ $18 mesuales |
 |                     | Canales de distribución (Web y/o Móvil)| Web y Movil | Web y Movil|Web|Web|
-| Análisis SWOT       | Fortalezas|Cubrir varios dispositivos. |Tener un servicio personalizado |Bajo Cosotorespecto a su competencia |Enfoxarze en un area de un restaurante |
+| Análisis SWOT       | Fortalezas|La fortaleza de esta aplicacion es que abarca 2 plataformas(Computadoras y moviles) |La fortaleza de esta aplicacion es poder ser personalizada para el negocio que solicita su servicio.|Bajo Cosoto respecto a su competencia |Enfocarze en un area de un restaurante |
 |                     | Debilidades|Solo tiene cobertura en México. |Cubrir muchos sectores sin especializarce en uno |Tener una interfaz nada agradable al usuario |Tener poca experiencia en el mercado. |
 |                     | Oportunidades |Al tener la posibilidad de usar dos tipos de dispositivo su alcanze aumenta. |Amplia base de usuarios potenciales. | Cubrir una base de usuarios con ingresos bajos.| Tener una especialziacion en un sector del mercado y no abarcar a muchos a la vez.|
 |                     | Amenazas|Competidores con alta experiencia en el mercado.|Cambios en la demanda del mercado.|Competidores con alta experiencia en el mercado.|No cubrir todas las areas de un restaurante|
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-#### Matriz CAME para el desarrollo de estrategias en base al análisis FODA
+Teniendo Identificados las fortalezas, debilidades, oportunidades y amenazas de nuestros principales competidores. Plantearemos las estrategias y tacticas frente a ellos:
 
-| Matriz F.O.D.A. y C.A.M.E.| Oportunidades<br>Mercado grande con millones de clientes. <br>Servicios técnicos con necesidades para organizarse mejor.| Amenazas<br>Competidores reconocidos<br>Competidores con muchos años de experiencia|
-|----------------| --------------- | ------------------------ |
-| Fortalezas<br>Idea innovadora<br>Diseño sencillo Multiplataforma<br>Gratuita para los clientes<br>Costos accesibles para servicios técnicos afiliados. |  | |
-| Debilidades<br>Poca experiencia en el mercado<br>Falta de más conocimiento en algunas áreas tecnológicas |  | |
+__Afrontando las fortalezas de nuestros competidores__
 
+* __Estrategia:__
+Brindar un sistema de inventario facil de usar que brinde adaptabilidad en dispositivos de escritorio y moviles. Ademas de tener un precio moderado ofreciendo la calidad del sistema.
+
+* __Tacticas:__
+    - Tener una interfaz pulida y facil de usar en ambos dispositivos de escritorio y moviles.
+    - Tener un costo reducido en los planes de nuestras suscripciones sin bajar tanto la calidad del producto.
+
+__Afrontando las debilidades de nuestros competidores__
+
+* __Estrategia:__
+Brindar un sistema que tenga alcanze global y que se especialize en restaurantes abarcando todas las  necesidades de estos. Ademas de brindar una interfaz muy agradable y amigable al usuario.
+* __Tacticas:__
+    - Desarrollar una interfaz facil y practica de usar.
+    - Desarrollar el sistema especializado en restaurantes.
+
+__Afrontando las oportunidades de nuestros competidores__
+
+* __Estrategia:__
+Atraer usuarios potenciales de la competencia
+* __Tacticas:__
+    - Publicitandonos en plataformas conocidas como tik tok, instagram y facebook.
+
+__Afrontando las amenazas de nuestros competidores__
+
+* __Estrategia:__
+Tener actualizaciones constantes y una cobertura intenacional.
+
+* __Tacticas:__
+ -Realizar actualizaciones ala aparicion de cualquier fallo.
 
 
 ## 2.2. Entrevistas

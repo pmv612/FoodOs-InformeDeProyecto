@@ -13,7 +13,7 @@
 
 
 | Integrante                        | Descripción del Perfil                                                                                           |
-@@ -239,7 +239,7 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
+
 
 
 - **1.2. Solution Profile**
@@ -21,8 +21,6 @@
   - **1.2.1. Antecedentes y problemática.**
     #### ¿Cuál es el problema?
     El problema principal en muchos restaurantes es la falta de sistemas de gestión efectivos, lo que conduce a una variedad de problemas operativos, como desorganización, errores en el control de existencias, pérdidas económicas y otros problemas.
-
-@@ -260,4 +260,13 @@ Estos gráficos muestra una representación visual de las clonaciones registrada
 
     #### ¿Cuánto impacto genera este problema? Representar datos estadísticos del segmento que tiene el problema.
     Los efectos económicos de esta falta de gestión efectiva pueden ser significativos para los restaurantes: pérdidas financieras debido a la falta de control sobre el inventario, compras innecesarias o excesivas, desperdicio de alimentos y potencialmente una disminución en la satisfacción del cliente. Esto puede afectar la reputación del restaurante y su capacidad para retener y atraer clientes. La cantidad exacta de estas pérdidas puede variar dependiendo del tamaño del restaurante, el volumen de ventas y otros factores específicos de cada negocio.
